@@ -1,0 +1,7 @@
+#Исключить все
+*
+#Кроме .cpp, .jpg, .txt и README.md
+!*.cpp
+!*.jpg
+!*.txt
+!README.md
